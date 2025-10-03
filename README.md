@@ -3,6 +3,11 @@
 ## Overview
 AI-powered agent that helps users optimize loan payments, EMIs, and credit card points using Google Vertex AI.
 
+<img width="1179" height="715" alt="Screenshot 2025-10-03 at 3 37 42 PM" src="https://github.com/user-attachments/assets/27634888-e793-43f4-bcff-85275319f1a0" />
+
+<img width="1108" height="743" alt="Screenshot 2025-10-03 at 3 37 51 PM" src="https://github.com/user-attachments/assets/bab77f22-a476-4243-a27a-610e09e8021a" />
+
+
 ## Local Setup
 1. Clone this repo
 2. Create a virtual environment:
