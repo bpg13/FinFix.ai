@@ -1,0 +1,6 @@
+[
+    {"name": "Car Loan", "balance": 8000, "interest": 7.2},
+    {"name": "Student Loan", "balance": 5000, "interest": 5.5},
+    {"name": "Credit Card", "balance": 2000, "interest": 18.5}
+  ]
+  
