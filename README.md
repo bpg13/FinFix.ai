@@ -1,4 +1,4 @@
-# AI Debt & EMI Optimizer
+# FinFix.ai
 
 ## Overview
 AI-powered agent that helps users optimize loan payments, EMIs, and credit card points using Google Vertex AI.
